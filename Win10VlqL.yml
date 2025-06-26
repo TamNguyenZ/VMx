@@ -8,7 +8,7 @@ services:
       PASSWORD: "Megabass255"
       RAM_SIZE: "8G"
       CPU_CORES: "8"
-      DISK_SIZE: "50G"
+      DISK_SIZE: "20G"
     devices:
       - /dev/kvm
       - /dev/net/tun
